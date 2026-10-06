@@ -1,0 +1,101 @@
+customer_id,customer_name,email,city,state,country
+101,Rahul Sharma,rahul.sharma@gmail.com,Bangalore,Karnataka,India
+102,Priya Patel,priya.patel@gmail.com,Mumbai,Maharashtra,India
+103,Arjun Kumar,arjun.kumar@gmail.com,Delhi,Delhi,India
+104,Sneha Reddy,sneha.reddy@gmail.com,Hyderabad,Telangana,India
+105,Aditya Mehta,aditya.mehta@gmail.com,Chennai,Tamil Nadu,India
+106,Ananya Iyer,ananya.iyer@gmail.com,Pune,Maharashtra,India
+107,Rohan Gupta,rohan.gupta@gmail.com,Kolkata,West Bengal,India
+108,Kavya Nair,kavya.nair@gmail.com,Ahmedabad,Gujarat,India
+109,Vikram Singh,vikram.singh@gmail.com,Jaipur,Rajasthan,India
+110,Neha Joshi,neha.joshi@gmail.com,Kochi,Kerala,India
+111,Amit Verma,amit.verma@gmail.com,Bangalore,Karnataka,India
+112,Pooja Shah,pooja.shah@gmail.com,Mumbai,Maharashtra,India
+113,Karan Malhotra,karan.malhotra@gmail.com,Delhi,Delhi,India
+114,Divya Rao,divya.rao@gmail.com,Hyderabad,Telangana,India
+115,Siddharth Das,siddharth.das@gmail.com,Chennai,Tamil Nadu,India
+116,Meera Kapoor,meera.kapoor@gmail.com,Pune,Maharashtra,India
+117,Nikhil Bhat,nikhil.bhat@gmail.com,Kolkata,West Bengal,India
+118,Ishita Menon,ishita.menon@gmail.com,Ahmedabad,Gujarat,India
+119,Varun Jain,varun.jain@gmail.com,Jaipur,Rajasthan,India
+120,Shreya Kulkarni,shreya.kulkarni@gmail.com,Kochi,Kerala,India
+121,Akash Desai,akash.desai@gmail.com,Bangalore,Karnataka,India
+122,Riya Choudhary,riya.choudhary@gmail.com,Mumbai,Maharashtra,India
+123,Manish Yadav,manish.yadav@gmail.com,Delhi,Delhi,India
+124,Aishwarya Shetty,aishwarya.shetty@gmail.com,Hyderabad,Telangana,India
+125,Rohit Agarwal,rohit.agarwal@gmail.com,Chennai,Tamil Nadu,India
+126,Swati Mishra,swati.mishra@gmail.com,Pune,Maharashtra,India
+127,Abhishek Sinha,abhishek.sinha@gmail.com,Kolkata,West Bengal,India
+128,Nandini Pillai,nandini.pillai@gmail.com,Ahmedabad,Gujarat,India
+129,Harsh Vora,harsh.vora@gmail.com,Jaipur,Rajasthan,India
+130,Tanvi Deshmukh,tanvi.deshmukh@gmail.com,Kochi,Kerala,India
+131,Saurabh Tiwari,saurabh.tiwari@gmail.com,Bangalore,Karnataka,India
+132,Manya Kapoor,manya.kapoor@gmail.com,Mumbai,Maharashtra,India
+133,Kunal Arora,kunal.arora@gmail.com,Delhi,Delhi,India
+134,Simran Kaur,simran.kaur@gmail.com,Hyderabad,Telangana,India
+135,Rajiv Nair,rajiv.nair@gmail.com,Chennai,Tamil Nadu,India
+136,Deepika Hegde,deepika.hegde@gmail.com,Pune,Maharashtra,India
+137,Mohit Saxena,mohit.saxena@gmail.com,Kolkata,West Bengal,India
+138,Preeti Ghosh,preeti.ghosh@gmail.com,Ahmedabad,Gujarat,India
+139,Yash Thakur,yash.thakur@gmail.com,Jaipur,Rajasthan,India
+140,Sakshi Jain,sakshi.jain@gmail.com,Kochi,Kerala,India
+141,Ankit Bansal,ankit.bansal@gmail.com,Bangalore,Karnataka,India
+142,Pallavi Rao,pallavi.rao@gmail.com,Mumbai,Maharashtra,India
+143,Varun Reddy,varun.reddy@gmail.com,Delhi,Delhi,India
+144,Aditi Shah,aditi.shah@gmail.com,Hyderabad,Telangana,India
+145,Gaurav Kumar,gaurav.kumar@gmail.com,Chennai,Tamil Nadu,India
+146,Nisha Verma,nisha.verma@gmail.com,Pune,Maharashtra,India
+147,Ritesh Patil,ritesh.patil@gmail.com,Kolkata,West Bengal,India
+148,Komal Sharma,komal.sharma@gmail.com,Ahmedabad,Gujarat,India
+149,Aman Gupta,aman.gupta@gmail.com,Jaipur,Rajasthan,India
+150,Bhavana Iyer,bhavana.iyer@gmail.com,Kochi,Kerala,India
+151,Manoj Menon,manoj.menon@gmail.com,Bangalore,Karnataka,India
+152,Shruti Joshi,shruti.joshi@gmail.com,Mumbai,Maharashtra,India
+153,Ravi Shankar,ravi.shankar@gmail.com,Delhi,Delhi,India
+154,Lakshmi Nair,lakshmi.nair@gmail.com,Hyderabad,Telangana,India
+155,Sanjay Mehta,sanjay.mehta@gmail.com,Chennai,Tamil Nadu,India
+156,Pooja Reddy,pooja.reddy@gmail.com,Pune,Maharashtra,India
+157,Tarun Kapoor,tarun.kapoor@gmail.com,Kolkata,West Bengal,India
+158,Swati Patel,swati.patel@gmail.com,Ahmedabad,Gujarat,India
+159,Vivek Singh,vivek.singh@gmail.com,Jaipur,Rajasthan,India
+160,Preeti Sharma,preeti.sharma@gmail.com,Kochi,Kerala,India
+161,Anjali Desai,anjali.desai@gmail.com,Bangalore,Karnataka,India
+162,Sameer Khan,sameer.khan@gmail.com,Mumbai,Maharashtra,India
+163,Divya Menon,divya.menon@gmail.com,Delhi,Delhi,India
+164,Naveen Kumar,naveen.kumar@gmail.com,Hyderabad,Telangana,India
+165,Rashmi Rao,rashmi.rao@gmail.com,Chennai,Tamil Nadu,India
+166,Karthik Iyer,karthik.iyer@gmail.com,Pune,Maharashtra,India
+167,Monika Shah,monika.shah@gmail.com,Kolkata,West Bengal,India
+168,Deepak Verma,deepak.verma@gmail.com,Ahmedabad,Gujarat,India
+169,Snehal Patil,snehal.patil@gmail.com,Jaipur,Rajasthan,India
+170,Pranav Joshi,pranav.joshi@gmail.com,Kochi,Kerala,India
+171,Shalini Gupta,shalini.gupta@gmail.com,Bangalore,Karnataka,India
+172,Ashwin Nair,ashwin.nair@gmail.com,Mumbai,Maharashtra,India
+173,Rekha Menon,rekha.menon@gmail.com,Delhi,Delhi,India
+174,Suresh Bhat,suresh.bhat@gmail.com,Hyderabad,Telangana,India
+175,Nikita Jain,nikita.jain@gmail.com,Chennai,Tamil Nadu,India
+176,Rakesh Yadav,rakesh.yadav@gmail.com,Pune,Maharashtra,India
+177,Madhuri Rao,madhuri.rao@gmail.com,Kolkata,West Bengal,India
+178,Vishal Sharma,vishal.sharma@gmail.com,Ahmedabad,Gujarat,India
+179,Neelam Patel,neelam.patel@gmail.com,Jaipur,Rajasthan,India
+180,Chirag Mehta,chirag.mehta@gmail.com,Kochi,Kerala,India
+181,Ritu Singh,ritu.singh@gmail.com,Bangalore,Karnataka,India
+182,Siddharth Jain,siddharth.jain@gmail.com,Mumbai,Maharashtra,India
+183,Payal Shah,payal.shah@gmail.com,Delhi,Delhi,India
+184,Rajesh Kumar,rajesh.kumar@gmail.com,Hyderabad,Telangana,India
+185,Sonal Verma,sonal.verma@gmail.com,Chennai,Tamil Nadu,India
+186,Abhinav Gupta,abhinav.gupta@gmail.com,Pune,Maharashtra,India
+187,Kriti Nair,kriti.nair@gmail.com,Kolkata,West Bengal,India
+188,Manoj Sharma,manoj.sharma@gmail.com,Ahmedabad,Gujarat,India
+189,Harini Reddy,harini.reddy@gmail.com,Jaipur,Rajasthan,India
+190,Anand Patel,anand.patel@gmail.com,Kochi,Kerala,India
+191,Shweta Joshi,shweta.joshi@gmail.com,Bangalore,Karnataka,India
+192,Vijay Kumar,vijay.kumar@gmail.com,Mumbai,Maharashtra,India
+193,Sonia Mehta,sonia.mehta@gmail.com,Delhi,Delhi,India
+194,Rahul Nair,rahul.nair@gmail.com,Hyderabad,Telangana,India
+195,Priti Rao,priti.rao@gmail.com,Chennai,Tamil Nadu,India
+196,Ramesh Singh,ramesh.singh@gmail.com,Pune,Maharashtra,India
+197,Kiran Patel,kiran.patel@gmail.com,Kolkata,West Bengal,India
+198,Anusha Sharma,anusha.sharma@gmail.com,Ahmedabad,Gujarat,India
+199,Nitin Gupta,nitin.gupta@gmail.com,Jaipur,Rajasthan,India
+200,Aparna Menon,aparna.menon@gmail.com,Kochi,Kerala,India

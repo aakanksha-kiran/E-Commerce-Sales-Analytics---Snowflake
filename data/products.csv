@@ -1,0 +1,51 @@
+product_id,product_name,category,price
+1001,Wireless Mouse,Electronics,799.0
+1002,Bluetooth Speaker,Electronics,1499.0
+1003,USB-C Cable,Electronics,399.0
+1004,Wireless Keyboard,Electronics,1299.0
+1005,Power Bank,Electronics,999.0
+1006,Smart Watch,Electronics,2499.0
+1007,Laptop Stand,Electronics,899.0
+1008,Earphones,Electronics,1199.0
+1009,Webcam,Electronics,1799.0
+1010,Phone Charger,Electronics,699.0
+1011,Cotton T-Shirt,Clothing,599.0
+1012,Denim Jeans,Clothing,1499.0
+1013,Casual Shirt,Clothing,999.0
+1014,Hoodie,Clothing,1299.0
+1015,Track Pants,Clothing,899.0
+1016,Kurti,Clothing,799.0
+1017,Formal Trousers,Clothing,1399.0
+1018,Summer Dress,Clothing,1199.0
+1019,Sports T-Shirt,Clothing,699.0
+1020,Jacket,Clothing,1999.0
+1021,Coffee Mug,Home & Kitchen,299.0
+1022,Water Bottle,Home & Kitchen,499.0
+1023,Lunch Box,Home & Kitchen,599.0
+1024,Electric Kettle,Home & Kitchen,1299.0
+1025,Non-Stick Pan,Home & Kitchen,999.0
+1026,Storage Container Set,Home & Kitchen,699.0
+1027,Table Lamp,Home & Kitchen,899.0
+1028,Bedsheet,Home & Kitchen,1199.0
+1029,Wall Clock,Home & Kitchen,599.0
+1030,Cushion Set,Home & Kitchen,799.0
+1031,Face Wash,Beauty,349.0
+1032,Moisturizer,Beauty,499.0
+1033,Sunscreen,Beauty,599.0
+1034,Shampoo,Beauty,449.0
+1035,Conditioner,Beauty,399.0
+1036,Lip Balm,Beauty,199.0
+1037,Body Lotion,Beauty,349.0
+1038,Perfume,Beauty,999.0
+1039,Hair Serum,Beauty,549.0
+1040,Face Cream,Beauty,699.0
+1041,Yoga Mat,Sports,799.0
+1042,Skipping Rope,Sports,299.0
+1043,Cricket Bat,Sports,2499.0
+1044,Football,Sports,899.0
+1045,Tennis Racket,Sports,1999.0
+1046,Dumbbell Set,Sports,1499.0
+1047,Badminton Racket,Sports,999.0
+1048,Gym Gloves,Sports,499.0
+1049,Sports Shoes,Sports,2299.0
+1050,Resistance Bands,Sports,699.0
