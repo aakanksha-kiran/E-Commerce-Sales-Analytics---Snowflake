@@ -244,7 +244,7 @@ It provides a practical view of sales performance, product performance, category
 
 A demo of the interactive dashboard is available through the project demo video.
 
-**Demo:** See the project demo shared along with this repository.
+**Demo:** Scan the QR code below to view the project demo videos.
 
 ---
 
