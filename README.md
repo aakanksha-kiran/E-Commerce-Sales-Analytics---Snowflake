@@ -25,7 +25,7 @@ The dashboard enables users to explore sales performance based on **state, produ
 
 ## Technologies Used
 
-- **Snowflake** – Cloud data warehouse
+- **Snowflake** – Cloud Data Warehouse
 - **SQL** – Data analysis, transformation, and views
 - **Python** – Data generation and application logic
 - **Snowpark Python** – Snowflake data interaction
@@ -212,12 +212,13 @@ ecommerce-sales-analytics-snowflake/
 │   └── streamlit_app.py
 │
 ├── screenshots/
-│   ├── dashboard_overview.png
+│   ├── dashboard overview.png
 │   ├── filters.png
-│   └── customer_insights.png
-│
-└── docs/
-    └── project_documentation.md
+│   ├── customer insights.png
+    ├── demo qr code.png
+
+
+
 ```
 
 ---
@@ -241,10 +242,7 @@ It provides a practical view of sales performance, product performance, category
 ---
 
 ## Project Demo
-
-A demo of the interactive dashboard is available through the project demo video.
-
-**Demo:** Scan the QR code below to view the project demo videos.
+The project demo video can be accessed by scanning the QR code provided in the screenshots section.
 
 ---
 
